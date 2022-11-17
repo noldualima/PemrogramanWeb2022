@@ -7,11 +7,11 @@ Tahun : 2022
 ```
 
 ### Keterangan Directory
-1. Tugas 1 : CV/Portofolio
-2. Tugas 2 : Website Online Shop
-3. Tugas 3 : Kode Pos Indonesia
-  3a. Latihan 3 : Form Registrasi, Login, dan Signup
-4. Tugas 4 : (Latihan TM5) Penerapan Bootstrap
-5. Tugas 5 : (Latihan TM6) Jquery "Simple Counter"
-6. Tugas 6 : (Latihan TM7) Jquery "Validation Form Input"
-7. Tugas 7 :
+- Tugas 1 : CV/Portofolio
+- Tugas 2 : Website Online Shop
+- Tugas 3 : Kode Pos Indonesia
+  - Latihan 3 : (Latihan TM3) Form Registrasi, Login, dan Signup
+- Tugas 4 : (Latihan TM5) Penerapan Bootstrap
+- Tugas 5 : (Latihan TM6) Jquery "Simple Counter"
+- Tugas 6 : (Latihan TM7) Jquery "Validation Form Input"
+- Tugas 7 :
