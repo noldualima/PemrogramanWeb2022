@@ -6,7 +6,10 @@ Kelas : Pemrograman Web (B)
 Tahun : 2022
 ```
 
-### Keterangan Directory
+### Dokumentasi
+Blog : https://noldualima.blogspot.com/search/label/PWEB
+
+### Keterangan
 - Tugas 1 : CV/Portofolio
 - Tugas 2 : Website Online Shop
 - Tugas 3 : Kode Pos Indonesia
@@ -19,3 +22,4 @@ Tahun : 2022
 - Tugas 7 : 
 - Tugas 8 : 
 - Tugas 9 : 
+
