@@ -11,7 +11,7 @@ Blog : https://noldualima.blogspot.com/search/label/PWEB
 
 ### Keterangan
 - Tugas 1 : CV/Portofolio
-- Tugas 2 : Website Online Shop
+- Tugas 2 : Website Online Shop (Penerapan HTML dan CSS)
 - Tugas 3 : Kode Pos Indonesia
   - Latihan 3 : (Latihan TM3) Form Registrasi, Login, dan Signup
 - Quiz 1 : Formulir Pendaftaran
