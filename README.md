@@ -19,7 +19,7 @@ Blog : https://noldualima.blogspot.com/2022/09/link-dokumen-tugas-pweb.html
 - Tugas 5 : (Latihan TM6) Jquery "Simple Counter"
 - Tugas 6 : (Latihan TM7) Jquery "Validation Form Input"
 - ETS : https://e-doctorcare.com/
-- Tugas 7 : 
-- Tugas 8 : 
+- Tugas 7 : PHP - CRUD Pendaftaran Siswa
+- Tugas 8 : PHP - CRUD Pendaftaran Siswa dengan Penambahan Upload Foto
 - Tugas 9 : 
 
