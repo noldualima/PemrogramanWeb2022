@@ -21,5 +21,6 @@ Blog : https://noldualima.blogspot.com/2022/09/link-dokumen-tugas-pweb.html
 - ETS : https://e-doctorcare.com/
 - Tugas 7 : PHP - CRUD Pendaftaran Siswa
 - Tugas 8 : PHP - CRUD Pendaftaran Siswa dengan Penambahan Upload Foto
-- Tugas 9 : 
+- Tugas 9 : PHP - CRUD Pendaftaran Siswa dengan Laporan PDF
+- EAS : 
 
